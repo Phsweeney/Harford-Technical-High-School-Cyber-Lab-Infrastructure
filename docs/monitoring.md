@@ -15,7 +15,7 @@
 | **Grafana** | Visualization layer | Queries InfluxDB and renders the data as live dashboards. Used the community [vSphere Overview dashboard](https://grafana.com/grafana/dashboards/8159-vmware-vsphere-overview/) as a base and customized for our needs, giving easy access visibility into host and VM performance across the ESXi environment.
 
 
-## An Initial Problem we Faced
+## An Initial Problem We Faced
 
 Before this project, there was no visibility into the health of the lab's
 virtualized services. We collected no data on our VMs in any sort of centralized place and we had no easy way to spot problems with VM health and continuosly monitor them.
