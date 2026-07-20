@@ -1,6 +1,6 @@
 # Endpoint Management & Imaging
 
-## An Initial Problem we Faced
+## An Initial Problem We Faced
 
 With over 80 desktops and laptops across the lab, manually configuring,
 updating, and re-imaging machines one at a time didn't scale. We had to find a way to manage devices across Windows, Linux, and Mac.
