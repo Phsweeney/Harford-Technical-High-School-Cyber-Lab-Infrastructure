@@ -7,7 +7,7 @@
 
 > Left is us picking up tech donations for the program from a company in Baltimore over the Summer. Right is us doing secure data destruction on the laptops from the donation.
 
-## An Initilal Problem we Faced
+## An Initilal Problem We Faced
 
 No formal inventory system existed for the lab's hardware. Desktops, laptops,
 networking gear, etc were tracked informally at best. This became a
