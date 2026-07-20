@@ -16,7 +16,7 @@
 
 > The old and broken topology is on the left, making use of a router with one link instead of a L3 switch.
 
-## An Intial Problem We Faced
+## An Intial Problem we Faced
 
 When we took over in Fall 2024, one of our biggest issues was the awfully slow local file transfer speeds. This issue became espescially apparent when we would attempt to pull down CyberPatriot practice images from the file server onto the Desktops. Transfer would take upwards of 15 minutes with multiple computers attempting to transfer at once. After a quick assessment of our network infrastructure, we realized that for the desktops to communicate with the servers, inter-VLAN routing had to occur and everything was being routed from a switch to the dedicated router through a singular Fast Ethernet link at 100Mbps. Every file transfer had to traverse this one link to this one router severely bottlenecking network performance.
 ## What We Built
