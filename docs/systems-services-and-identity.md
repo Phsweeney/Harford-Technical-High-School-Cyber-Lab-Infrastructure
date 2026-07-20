@@ -22,7 +22,7 @@
 | Backup & Replication | `VEEAM01` | Bare-metal (same host as `BACKUP01`) | Veeam, scheduled incremental backups |
 
 
-## An Intial Problem we Faced
+## An Intial Problem We Faced
 
 As we began to get deeper into administering the lab in 2024, we noticed a growing number of services we were missing that we required to effectively administer the lab and provide an effective learning environment. We also needed to standardize a things across the growing number of devices in the lab, like allowing for a consistent sign-on experience and keeping certain settings consistent across Windows devices.
 
