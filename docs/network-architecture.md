@@ -6,7 +6,7 @@
 | 2 | Internet | Transit between the L3 core and firewall |
 | 7 | Servers | All server infrastructure, static IPs, ESXi host, file server, backup server |
 | 9 | Desktops + Wi-Fi | Wired desktops and wireless clients, DHCP-assigned |
-| 99 | Management | SSH-only access to switch management interfaces, each switch has static VLAN 99 SVI |
+| 99 | Management | SSH-only access to switch management interfaces |
 
 <p float="left">
   <img src="../diagrams/old-broken-topology.png" width="400" alt="Network Topology Old">
